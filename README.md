@@ -7,7 +7,7 @@
 - 
 - - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- like coding and exploring my skill set's
+- like coding and exploring my skill sets
 
 <!---
 IfeakanduBenedict/IfeakanduBenedict is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
